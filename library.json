@@ -1,5 +1,5 @@
 {
-  "name": "EloquentTinyML",
+  "name": "EloquentTinyML_ARM",
   "keywords": "tinyml",
   "description": "Eloquent interface to Tensorflow Lite for Microcontrollers",
   "repository": {
